@@ -1,15 +1,39 @@
 
+
+<h3 align="center"><b>🛠 <i>기술</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+  <br>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
   
-  # 기술스택
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
+  
+  
+  <h3 align="center"><b>⌨ 툴</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <br>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">  
+  <br>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">  
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">  
   
   
   
   
   
-# more
-<a href="https://www.instagram.com/ani._n0/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://ani-.notion.site/f739893ebec34c448ca5ed0a1a3d1402?v=7003162af2334492b3f4c46ec9f32606" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <h3 align="center"><b>💭 코멘트</b></h3>
+</br>
+<p align="center">
+<a href="https://www.instagram.com/ani._n0/" target="_blank"><img src="https://img.shields.io/badge/ani._n0-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://ani-.notion.site/f739893ebec34c448ca5ed0a1a3d1402?v=7003162af2334492b3f4c46ec9f32606" target="_blank"><img src="https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <br>
 <img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
