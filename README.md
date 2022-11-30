@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center"><b>🛠 <i>기술 </i> 🛠 </b></h3> 
+<h3 align="center"><b>🛠</b></h3> 
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -27,7 +27,7 @@
   
 <br>
 <br>
-  <h3 align="center"><b>💭 코멘트</i> 💭 </b></h3>
+  <h3 align="center"><b>💭</b></h3>
 <p align="center">
   <br>
 <img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
