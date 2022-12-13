@@ -4,15 +4,15 @@
 
 
 
-<h3 align="center"><b>🛠</b></h3> 
-</br>
+<h3 align="center"><b>📚</b></h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
-  <br>
+<h3 align="center"><b>🛠</b></h3> 
+<p align="center">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <br>
@@ -25,12 +25,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
   
-  
 <br>
-<br>
-  <h3 align="center"><b>💭</b></h3>
-<p align="center">
-  <br>
+  <h3 align="center"><b>✉</b></h3>
+  <p align="center">
 <img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 <br>
