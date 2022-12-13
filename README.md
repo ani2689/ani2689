@@ -7,9 +7,11 @@
 <h3 align="center"><b>📚</b></h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  <br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <br>
 <h3 align="center"><b>🛠</b></h3> 
 <p align="center">
