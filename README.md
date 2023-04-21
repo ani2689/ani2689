@@ -36,4 +36,4 @@
 <img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 <br>
 <a href="https://www.instagram.com/ani._n0/" target="_blank"><img src="https://img.shields.io/badge/ani._n0-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67" target="_blank"> <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
