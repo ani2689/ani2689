@@ -1,7 +1,7 @@
 ### 👋 HELLO
 ### ✍ I'm Back-End Developer!
 
-[![Facebook Badge](https://img.shields.io/badge/-instagram-A68776?logo=Instagram&logoColor=ffffff&link=(https://www.instagram.com/ani._n0/)})]((https://www.instagram.com/ani._n0/)})
+[![Instagram Badge](https://img.shields.io/badge/-instagram-A68776?logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/ani._n0/)](https://www.instagram.com/ani._n0/)
 
 <img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://www.instagram.com/ani._n0/" target="_blank"> <img src="https://img.shields.io/badge/ani._n0-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
