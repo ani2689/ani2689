@@ -1,9 +1,11 @@
+### 👋 HELLO
+### ✍ I'm Back-End Developer!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C7CDD9,100:ECE4DC&height=300&section=header&text=Hello!&fontSize=90&fontColor=FFFFFF)
+[![Facebook Badge](https://img.shields.io/badge/-instagram-A68776?logo=Instagram&logoColor=ffffff&link=(https://www.instagram.com/ani._n0/)})]((https://www.instagram.com/ani._n0/)})
 
- 
-
-
+<img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.instagram.com/ani._n0/" target="_blank"> <img src="https://img.shields.io/badge/ani._n0-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67" target="_blank"> <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 <h3 align="center"><b>📚</b></h3> 
 <p align="center"> 
@@ -34,8 +36,3 @@
 <br>
   <h3 align="center"><b>✉</b></h3>
   <p align="center">
-<img src="https://img.shields.io/badge/아니 9270-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<img src="https://img.shields.io/badge/ojno7777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-<br>
-<a href="https://www.instagram.com/ani._n0/" target="_blank"><img src="https://img.shields.io/badge/ani._n0-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67" target="_blank"> <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
