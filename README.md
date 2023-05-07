@@ -1,15 +1,20 @@
 ### 🎉 Welcome to my GITHUB!
 
- I'm Back-End Developer ( •̀ .̫ •́ )7✧
+##### I'm Back-End Developer ( •̀ .̫ •́ )7✧
 
+---
  
+#### 🎞 Dailyㅡ
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-BFAAAA?logo=Instagram&logoColor=white&link=https://www.instagram.com/ani._n0/)](https://www.instagram.com/ani._n0/)
+[![Instagram Badge](https://img.shields.io/badge/-blog-BFAAAA?logo=bookalope&logoColor=white&link=https://blog.naver.com/ani2689/)](https://blog.naver.com/ani2689)
+
+#### 🖥 Portfolioㅡ
+
 [![Instagram Badge](https://img.shields.io/badge/-notion-BFAAAA?logo=notion&logoColor=ffffff&link=https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67)](https://ani-.notion.site/7d4322b581e44b32880c8d2dcd346b67)
 
-<h3 align="center"><b>📚</b></h3> 
-<p align="center"> 
-  
+#### 📺 Studyㅡ
+
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -32,7 +37,4 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  
-<br>
-  <h3 align="center"><b>✉</b></h3>
-  <p align="center">
+ 
