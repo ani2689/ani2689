@@ -20,4 +20,4 @@
 
 ![tool](https://skillicons.dev/icons?i=postman,git,github,figma,idea,eclipse,visualstudio,vscode&theme=dark)
 
-![ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ani2689&bg_color=262937&custom_title=현주's%20github%20📃&ring_color=ffffff&title_color=ffffff&text_color=dddddd&include_all_commits=true&hide_border=true)
+![ani's GitHub](https://github-readme-stats.vercel.app/api?username=ani2689&bg_color=262937&custom_title=현주's%20github%20📃&ring_color=ffffff&title_color=ffffff&text_color=dddddd&include_all_commits=true&hide_border=true)
