@@ -20,6 +20,6 @@
 
 #### 📺 Studyㅡ
 
-![language](https://skillicons.dev/icons?i=java,kotlin,spring,c,python,md,mysql,redis&theme=dark) 
+![skill](https://skillicons.dev/icons?i=java,kotlin,spring,c,python,md,mysql,redis&theme=dark) 
 
 ![tool](https://skillicons.dev/icons?i=postman,git,github,figma,idea,eclipse,visualstudio,vscode&theme=dark)
