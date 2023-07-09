@@ -1,6 +1,6 @@
 ### 🎬 Welcome to my GITHUB!
   
-##### I'm Back-End Developer o(\*°▽°\*)o
+##### I'm Back-End Developer ♪(^∇^*)
 
 
 --- 
