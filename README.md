@@ -1,9 +1,8 @@
 ### 🎬 Welcome to my GITHUB!
    
-##### 🏴 I'm Back-End Developer ˋ( ° ▽、° )  
- 
- 
----  
+##### 🏴 I'm Back-End Developer ˋ( ° ▽、° ) 
+
+---
 
 #### 🎞 Daily
  
