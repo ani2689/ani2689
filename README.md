@@ -2,6 +2,8 @@
    
 ##### 🏴 I'm Back-End Developer ˋ( ° ▽、° ) 
 
+business mail : dev.hyeonju@gmail.com
+
 ---
 
 #### 🎞 Daily
