@@ -22,3 +22,14 @@ business mail : dev.hyeonju@gmail.com
 #### 📺 Study
 
 ![Skill](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,redis&theme=dark) 
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ani2689?pet-id=587244599248005894"
+    width="600"
+    height="120"
+  />
+</a>
+  
