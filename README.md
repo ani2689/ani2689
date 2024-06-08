@@ -25,10 +25,12 @@ business mail : dev.hyeonju@gmail.com
 
 ---
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ani2689"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/ani2689?pet-id=587247467472468018"
+    width="600"
+    height="120"
+  />
 </a>
+  
